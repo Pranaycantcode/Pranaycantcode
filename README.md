@@ -13,9 +13,9 @@ I bridge the gap between engineering discipline and software craftsmanship.
 
 | Project | Tech Stack | Live Demo |
 |---------|------------|-----------|
-| **[OpsBoard](./OpsBoard)** — Startup Operations Dashboard | Next.js, Express, PostgreSQL, Prisma, JWT | [Live Demo](https://startup-operations-dashboard.vercel.app) |
-| **[Moneyfy](./moneyfy)** — Wealth Management Platform | Next.js, Node.js, PostgreSQL, Docker | [Live Demo](https://moneyfy-six.vercel.app) |
-| **[Triibe](./triibe-latest)** — Community Platform Frontend | Next.js, TypeScript, Tailwind CSS | [Live Demo](https://tribe-latest.vercel.app) |
+| **[OpsBoard]** : Startup Operations Dashboard | Next.js, Express, PostgreSQL, Prisma, JWT | [Live Demo](https://startup-operations-dashboard.vercel.app) |
+| **[Moneyfy]** : Wealth Management Platform | Next.js, Node.js, PostgreSQL, Docker | [Live Demo](https://moneyfy-six.vercel.app) |
+| **[Triibe]** : Community Platform Frontend | Next.js, TypeScript, Tailwind CSS | [Live Demo](https://www.triibe.org/) |
 
 **Key Capabilities:**
 - ✅ Full-stack TypeScript (Next.js + Express + PostgreSQL)
@@ -28,11 +28,11 @@ I bridge the gap between engineering discipline and software craftsmanship.
 
 ## 🧠 My Engineering Philosophy
 
-I treat code like systems—**every component should have a purpose, be testable, and work reliably under load.** I focus on:
+I treat code like systems, **every component should have a purpose, be testable, and work reliably under load.** I focus on:
 
-- **Operational Visibility** — Building dashboards that show *what's happening*, not just *what's stored*
-- **Intelligent Automation** — Automating insights (deadline detection, progress tracking, health monitoring)
-- **User-Centric Design** — Clean interfaces that make complex data actionable
+- **Operational Visibility** : Building dashboards that show *what's happening*, not just *what's stored*
+- **Intelligent Automation** : Automating insights (deadline detection, progress tracking, health monitoring)
+- **User-Centric Design** : Clean interfaces that make complex data actionable
 
 
 ---
