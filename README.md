@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pranay Mishra
+# Hi, I'm Pranay Mishra
 
 **Mechanical Engineering @ BIT Mesra (3rd Year)** · **Full-Stack Developer** · **Product Builder**
 
@@ -9,7 +9,7 @@ I bridge the gap between engineering discipline and software craftsmanship.
 
 ---
 
-## 🔧 What I Build
+## What I Build
 
 | Project | Tech Stack | Live Demo |
 |---------|------------|-----------|
@@ -18,15 +18,15 @@ I bridge the gap between engineering discipline and software craftsmanship.
 | **[Triibe]** : Community Platform Frontend | Next.js, TypeScript, Tailwind CSS | [Live Demo](https://www.triibe.org/) |
 
 **Key Capabilities:**
-- ✅ Full-stack TypeScript (Next.js + Express + PostgreSQL)
-- ✅ JWT Authentication & Role-Based Access Control (RBAC)
-- ✅ Activity Logging & Operational Analytics
-- ✅ Production Deployment (Vercel / Railway / Docker)
-- ✅ Clean, Maintainable Architecture
+- Full-stack TypeScript (Next.js + Express + PostgreSQL)
+- JWT Authentication & Role-Based Access Control (RBAC)
+- Activity Logging & Operational Analytics
+- Production Deployment (Vercel / Railway / Docker)
+- Clean, Maintainable Architecture
 
 ---
 
-## 🧠 My Engineering Philosophy
+## My Engineering Philosophy
 
 I treat code like systems, **every component should have a purpose, be testable, and work reliably under load.** I focus on:
 
@@ -37,14 +37,14 @@ I treat code like systems, **every component should have a purpose, be testable,
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 
-- 🔭 Deepening my full-stack architecture skills
-- 🌱 Exploring CI/CD pipelines and advanced DevOps
+- Deepening my full-stack architecture skills
+- Exploring CI/CD pipelines and advanced DevOps
   
 ---
 
-## 🎓 Beyond Code
+## Beyond Code
 
 - **Education:** B.Tech in Mechanical Engineering, BIT Mesra (2024–2028)
 - **Interests:** Product strategy, startup operations, scalable systems
@@ -52,12 +52,12 @@ I treat code like systems, **every component should have a purpose, be testable,
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always open to:
-- 💼 Internship & job opportunities (full-stack / product engineering)
-- 🤝 Collaborations on interesting projects
-- 💬 Technical discussions & mentorship
+- Internship & job opportunities (full-stack / product engineering)
+- Collaborations on interesting projects
+- Technical discussions & mentorship
 
 **Reach out:** [LinkedIn](https://www.linkedin.com/in/pranay--mishra/) · [Email](mailto:pranaymishra206@gmail.com)
 
