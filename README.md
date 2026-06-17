@@ -28,7 +28,7 @@ I bridge the gap between engineering discipline and software craftsmanship.
 
 ## My Engineering Philosophy
 
-I treat code like systems, **every component should have a purpose, be testable, and work reliably under load.** I focus on:
+**Every component should have a purpose, be testable, and work reliably under load.** I focus on:
 
 - **Operational Visibility** : Building dashboards that show *what's happening*, not just *what's stored*
 - **Intelligent Automation** : Automating insights (deadline detection, progress tracking, health monitoring)
