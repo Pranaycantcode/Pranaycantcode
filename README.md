@@ -1,6 +1,6 @@
 # Hi, I'm Pranay Mishra
 
-**Mechanical Engineering @ BIT Mesra (3rd Year)** · **Full-Stack Developer** · **Product Builder**
+**Mechanical Engineering @ BIT Mesra (3rd Year)** · **Full-Stack Developer** · **Product Building and Maintenance**
 
 I bridge the gap between engineering discipline and software craftsmanship.
 
