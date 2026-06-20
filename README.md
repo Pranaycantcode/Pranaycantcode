@@ -18,10 +18,10 @@ I bridge the gap between engineering discipline and software craftsmanship.
 | **[Triibe]** : Community Platform Frontend | Next.js, TypeScript, Tailwind CSS | [Live Demo](https://www.triibe.org/) |
 
 **Key Capabilities:**
-- Full-stack TypeScript (Next.js + Express + PostgreSQL)
+- Full-stack TypeScript (Next.js + Express + PostgreSQL + Prisma ORM)
 - JWT Authentication & Role-Based Access Control (RBAC)
 - Activity Logging & Operational Analytics
-- Production Deployment (Vercel / Railway / Docker)
+- Production Deployment (Vercel / Railway / Render / Docker / Neon / Upstash)
 - Clean, Maintainable Architecture
 
 ---
