@@ -59,7 +59,7 @@ I'm always open to:
 - Collaborations on interesting projects
 - Technical discussions & mentorship
 
-**Reach out:** [LinkedIn](https://www.linkedin.com/in/pranay--mishra/) · [Email](mailto:pranaymishra206@gmail.com)
+**Reach out:** [LinkedIn](https://www.linkedin.com/in/pranay--mishra/) · [Email](mailto:pranaymishra206@gmail.com) · [Wellfound](https://wellfound.com/u/pranay-mishra-24) 
 
 ---
 
