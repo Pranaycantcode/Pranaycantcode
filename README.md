@@ -9,7 +9,7 @@ I bridge the gap between engineering discipline and software craftsmanship.
 
 ---
 
-## What I Build
+## What Have I Built as of yet
 
 | Project | Tech Stack | Live Demo |
 |---------|------------|-----------|
