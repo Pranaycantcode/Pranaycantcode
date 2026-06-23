@@ -55,7 +55,7 @@ I bridge the gap between engineering discipline and software craftsmanship.
 ## Let's Connect
 
 I'm always open to:
-- Internship & job opportunities (full-stack / product engineering)
+- Internship & job opportunities (full-stack / systems engineering / DevOps)
 - Collaborations on interesting projects
 - Technical discussions & mentorship
 
