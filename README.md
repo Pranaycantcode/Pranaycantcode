@@ -7,7 +7,7 @@ I bridge the gap between engineering discipline and software craftsmanship.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranay--mishra/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-000000?style=for-the-badge&logo=vercel)](https://github.com/Pranaycantcode)
 
----
+--- https://github.com/Pranaycantcode/Notely
 
 ## What Have I Built as of yet
 
@@ -16,6 +16,8 @@ I bridge the gap between engineering discipline and software craftsmanship.
 | **[OpsBoard]** : Startup Operations Dashboard | Next.js, Express, PostgreSQL, Prisma, JWT | [Live Demo](https://startup-operations-dashboard.vercel.app) |
 | **[Moneyfy]** : Wealth Management Platform | Next.js, Node.js, PostgreSQL, Docker | [Live Demo](https://moneyfy-six.vercel.app) |
 | **[Triibe]** : Community Platform Frontend | Next.js, TypeScript, Tailwind CSS | [Live Demo](https://www.triibe.org/) |
+| **[Notely]** : Interactive and production-like Notes API | Java Spring Boot, Maven, Tomcat, Project Lombok, H2, Mockito | [Live Demo]() |
+
 
 **Key Capabilities:**
 - Full-stack TypeScript (Next.js + Express + PostgreSQL + Prisma ORM)
