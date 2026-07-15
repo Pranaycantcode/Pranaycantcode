@@ -20,7 +20,7 @@ I bridge the gap between engineering discipline and software craftsmanship.
 
 
 **Key Capabilities:**
-- Full-stack TypeScript (Next.js + Express + PostgreSQL + Prisma ORM)
+- Full-stack TypeScript (Next.js + Express + PostgreSQL + Prisma ORM), Java, Spring Boot, Python (intermediate level knowledge)
 - JWT Authentication & Role-Based Access Control (RBAC)
 - Activity Logging & Operational Analytics
 - Production Deployment (Vercel / Railway / Render / Docker / Neon / Upstash)
