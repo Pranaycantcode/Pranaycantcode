@@ -43,6 +43,8 @@ I bridge the gap between engineering discipline and software craftsmanship.
 
 - Deepening my full-stack architecture skills
 - Exploring CI/CD pipelines and advanced DevOps
+- Polishing my system design foundations
+- Venturing into the AI/ML domain
   
 ---
 
