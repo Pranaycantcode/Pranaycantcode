@@ -50,7 +50,7 @@ I bridge the gap between engineering discipline and software craftsmanship.
 ## Beyond Code
 
 - **Education:** B.Tech in Mechanical Engineering, BIT Mesra (2024–2028)
-- **Interests:** Product strategy, startup operations, scalable systems
+- **Interests:** Full Stack development, DSA, System Design, DevOps
 - **Goal:** Build software that makes complex workflows simple and visible
 
 ---
