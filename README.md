@@ -5,7 +5,6 @@
 I bridge the gap between engineering discipline and software craftsmanship.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranay--mishra/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-000000?style=for-the-badge&logo=vercel)](https://github.com/Pranaycantcode)
 
 --- 
 
