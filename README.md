@@ -24,6 +24,8 @@ I bridge the gap between engineering discipline and software craftsmanship.
 - Activity Logging & Operational Analytics
 - Production Deployment (Vercel / Railway / Render / Docker / Neon / Upstash)
 - Clean, Maintainable Architecture
+- Foundational knowledge of system design
+- DSA 
 
 ---
 
