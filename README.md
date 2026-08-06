@@ -30,17 +30,6 @@ I bridge the gap between engineering discipline and software craftsmanship.
 
 ---
 
-## My Engineering Philosophy
-
-**Every component should have a purpose, be testable, and work reliably under load.** I focus on:
-
-- **Operational Visibility** : Building dashboards that show *what's happening*, not just *what's stored*
-- **Intelligent Automation** : Automating insights (deadline detection, progress tracking, health monitoring)
-- **User-Centric Design** : Clean interfaces that make complex data actionable
-
-
----
-
 ## Current Focus
 
 - Deepening my full-stack architecture skills
@@ -68,8 +57,6 @@ I'm always open to:
 **Reach out to me on:** [LinkedIn](https://www.linkedin.com/in/pranay--mishra/) · [Email](mailto:pranaymishra206@gmail.com) · [Wellfound](https://wellfound.com/u/pranay-mishra-24) 
 
 ---
-
-*“Engineering is about making things work. Software is about making things work *better*.”*
 <!--
 **Pranaycantcode/Pranaycantcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
