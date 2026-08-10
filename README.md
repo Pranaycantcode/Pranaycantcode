@@ -17,7 +17,7 @@ I bridge the gap between engineering discipline and software craftsmanship.
 | **[Triibe]** : Community Platform Frontend | Next.js, TypeScript, Tailwind CSS | [Live Demo](https://www.triibe.org/) |
 | **[Notely]** : Interactive and production-like Notes API | Java Spring Boot, Maven, Tomcat, Project Lombok, H2, Mockito | [GitHub](https://github.com/Pranaycantcode/Notely) |
 | **[FraudShield AI]** : ML-powered fraud detection platform that analyzes transaction data, detects anomalous and fraudulent activity |  Pandas, NumPy, Matplotlib, Random Forest | [GitHub](https://github.com/Pranaycantcode/fraudshield-ai) |
-| **[orchestra]** : Interactive and production-like Notes API | Java Spring Boot, Maven, Tomcat, Project Lombok, H2, Mockito | [GitHub](https://github.com/Pranaycantcode/orchestra) |
+| **[orchestra]** : Event-driven workflow orchestration platform like GitHub Actions | Java, Spring Boot, Apache Kafka, PostgreSQL and Docker | [GitHub](https://github.com/Pranaycantcode/orchestra) |
 
 
 **Key Capabilities:**
