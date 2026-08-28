@@ -2,7 +2,6 @@
 
 **Mechanical Engineering @ BIT Mesra (3rd Year)** · **Full-Stack Developer** · **Product Building and Maintenance** · **System Design Enthusiast**
 
-I bridge the gap between engineering discipline and software craftsmanship.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranay--mishra/)
 
