@@ -1,73 +1,73 @@
-# Hi, I'm Pranay Mishra
+# Pranay Mishra
 
-**Mechanical Engineering @ BIT Mesra (3rd Year)** · **Full-Stack Developer** · **Product Building and Maintenance** · **System Design Enthusiast**
+**Mechanical Engineering @ BIT Mesra (3rd Year)** | **Full-Stack Developer** | **Systems and Product Engineering**
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranay--mishra/)
-
---- 
-
-## What Have I Built as of yet
-
-| Project | Tech Stack | Live Demo |
-|---------|------------|-----------|
-| **[OpsBoard]** : Startup Operations Dashboard | Next.js, Express, PostgreSQL, Prisma, JWT | [Live Demo](https://startup-operations-dashboard.vercel.app) |
-| **[Moneyfy]** : Wealth Management Platform | Next.js, Node.js, PostgreSQL, Docker | [Live Demo](https://moneyfy-six.vercel.app) |
-| **[Triibe]** : Community Platform Frontend | Next.js, TypeScript, Tailwind CSS | [Live Demo](https://www.triibe.org/) |
-| **[Notely]** : Interactive and production-like Notes API | Java Spring Boot, Maven, Tomcat, Project Lombok, H2, Mockito | [GitHub](https://github.com/Pranaycantcode/Notely) |
-| **[FraudShield AI]** : ML-powered fraud detection platform that analyzes transaction data, detects anomalous and fraudulent activity |  Pandas, NumPy, Matplotlib, Random Forest | [GitHub](https://github.com/Pranaycantcode/fraudshield-ai) |
-| **[orchestra]** : Event-driven workflow orchestration platform like GitHub Actions | Java, Spring Boot, Apache Kafka, PostgreSQL and Docker | [GitHub](https://github.com/Pranaycantcode/orchestra) |
-
-
-**Key Capabilities:**
-- Full-stack TypeScript (Next.js + Express + PostgreSQL + Prisma ORM), Java, Spring Boot, Python (intermediate level knowledge)
-- JWT Authentication & Role-Based Access Control (RBAC)
-- Activity Logging & Operational Analytics
-- Production Deployment (Vercel / Railway / Render / Docker / Neon / Upstash)
-- Clean, Maintainable Architecture
-- Foundational knowledge of system design
-- DSA 
+[GitHub](https://github.com/Pranaycantcode) | [LinkedIn](https://www.linkedin.com/in/pranay--mishra/) | [Wellfound](https://wellfound.com/u/pranay-mishra-24) | [Email](mailto:pranaymishra206@gmail.com)
 
 ---
 
-## Current Focus
+## Live Activity and Contribution Metrics
 
-- Deepening my full-stack architecture skills
-- Exploring CI/CD pipelines and advanced DevOps
-- Polishing my system design foundations
-- Venturing into the AI/ML domain
-  
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranaycantcode&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=002c19&icon_color=002c19&text_color=333333&bg_color=00000000" alt="Pranay's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranaycantcode&hide_border=true&stroke=002c19&ring=002c19&fire=002c19&currStreakNum=002c19&sideNums=333333&sideLabels=333333&dates=777777&background=00000000" alt="Streak Stats" />
+</p>
 
-## Beyond Code
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranaycantcode&theme=github" alt="GitHub Profile Summary" />
+</p>
 
-- **Education:** B.Tech in Mechanical Engineering, BIT Mesra (2024–2028)
-- **Interests:** Full Stack development, DSA, System Design, DevOps
-- **Goal:** Build software that makes complex workflows simple and visible
-
----
-
-## Let's Connect
-
-I'm always open to:
-- Internship & job opportunities (full-stack / systems engineering / DevOps)
-- Collaborations on interesting projects
-- Technical discussions & mentorship
-
-**Reach out to me on:** [LinkedIn](https://www.linkedin.com/in/pranay--mishra/) · [Email](mailto:pranaymishra206@gmail.com) · [Wellfound](https://wellfound.com/u/pranay-mishra-24) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranaycantcode&layout=compact&hide_border=true&title_color=002c19&text_color=333333&bg_color=00000000" alt="Top Languages" />
+</p>
 
 ---
-<!--
-**Pranaycantcode/Pranaycantcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## What I Have Built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What It Does | Tech Stack | Links |
+|:---|:---|:---|:---|
+| **OpsBoard** | Operational dashboard with analytics, activity audits, and role-based access control. | Next.js, Express, PostgreSQL, Prisma, JWT | [Live Demo](https://startup-operations-dashboard.vercel.app) |
+| **Moneyfy** | Containerized wealth and asset tracking web app with data persistence. | Next.js, Node.js, PostgreSQL, Docker | [Live Demo](https://moneyfy-six.vercel.app) |
+| **TRIIBE Platform** | Production web frontend serving a global community of young founders. | Next.js, TypeScript, Tailwind CSS | [Website](https://www.triibe.org/) |
+| **orchestra** | Event-driven pipeline orchestrator inspired by GitHub Actions. | Java, Spring Boot, Apache Kafka, PostgreSQL, Docker | [Source](https://github.com/Pranaycantcode/orchestra) |
+| **Notely** | Production-ready RESTful Notes API tested with Mockito and built for scale. | Java, Spring Boot, Maven, Tomcat, H2 | [Source](https://github.com/Pranaycantcode/Notely) |
+| **FraudShield AI** | Anomaly detection pipeline screening financial records for suspicious patterns. | Python, Pandas, NumPy, Scikit-learn, Random Forest | [Source](https://github.com/Pranaycantcode/fraudshield-ai) |
+
+---
+
+## Technical Toolbelt
+
+- **Languages:** TypeScript, JavaScript, Java, Python, C++, SQL
+- **Web & Frameworks:** Next.js, React, Node.js, Express, Spring Boot, Tailwind CSS
+- **Databases & ORM:** PostgreSQL, Prisma, Neon, Upstash, H2
+- **Infrastructure & Tools:** Docker, Apache Kafka, Git, GitHub Actions, Vercel, Railway, Render
+- **Core Engineering:** REST APIs, RBAC authentication flows, event streams, relational modeling, data structures
+
+---
+
+## What I Am Working On Right Now
+
+- Improving distributed systems knowledge through message brokers like Kafka
+- Designing predictable CI/CD pipelines and hands-on container orchestration
+- Deepening DSA problem solving in C++
+- Practical machine learning workflows for real-time data inputs
+
+---
+
+## Education & Background
+
+- **Birla Institute of Technology, Mesra** (2024 to 2028)  
+  Bachelor of Technology in Mechanical Engineering  
+  Bridging rigorous engineering fundamentals with software product design.
+
+---
+
+## Get In Touch
+
+I am looking for software engineering internships, backend/full-stack opportunities, and open-source collaborations.
+
+- **Email:** [pranaymishra206@gmail.com](mailto:pranaymishra206@gmail.com)
+- **LinkedIn:** [linkedin.com/in/pranay--mishra](https://www.linkedin.com/in/pranay--mishra/)
+- **Wellfound:** [wellfound.com/u/pranay-mishra-24](https://wellfound.com/u/pranay-mishra-24)
+- **GitHub:** [github.com/Pranaycantcode](https://github.com/Pranaycantcode)
