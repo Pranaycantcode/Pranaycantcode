@@ -52,7 +52,7 @@
 - Deepening my full-stack architecture skills
 - Exploring CI/CD pipelines and advanced DevOps
 - Polishing my system design foundations
-- Venturing into the AI/ML domain
+- Venturing into basic ML
 
 ---
 
@@ -60,7 +60,6 @@
 
 - **Education:** B.Tech in Mechanical Engineering, BIT Mesra (2024 to 2028)
 - **Interests:** Full Stack development, DSA, System Design, DevOps
-- **Goal:** Build software that makes complex workflows simple and visible
 
 ---
 
