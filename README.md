@@ -1,6 +1,6 @@
 # Hi, I'm Pranay Mishra
 
-**Mechanical Engineering @ BIT Mesra (3rd Year)** | **Full-Stack Developer** | **Product Building and Maintenance** | **System Design Enthusiast**
+**Mechanical Engineering @ BIT Mesra (3rd Year)** | **Full-Stack Developer** | **DevOps and CI/CD** | **System Design knowledge**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pranay--mishra/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pranaymishra206@gmail.com)
