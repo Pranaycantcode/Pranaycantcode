@@ -52,6 +52,7 @@
 - The TRIIBE Grants Page | [Live](https://www.triibe.org/grants) |
 - The TRIIBE Missing Layer Page | [Live](https://www.triibe.org/the-missing-layer) |
 - The TRIIBE 2027 Summit Page | [Live](https://www.triibe.org/summit) |
+- A slow but gradual bridge with Backend. Coming Soon.
 
 ---
 
