@@ -31,18 +31,18 @@
 |:---|:---|:---|
 | **[OpsBoard]** : Startup Operations Dashboard | Next.js, Express, PostgreSQL, Prisma, JWT | [Live Demo](https://startup-operations-dashboard.vercel.app) |
 | **[Moneyfy]** : Wealth Management Platform | Next.js, Node.js, PostgreSQL, Docker | [Live Demo](https://moneyfy-six.vercel.app) |
-| **[Triibe]** : Prominent US-Based Non-profit startup accelarator | Next.js, TypeScript, Tailwind CSS | [Live Demo](https://www.triibe.org/) |
+| **[Triibe]** : Prominent US-Based Non-profit startup accelarator | Next.js, TypeScript, Tailwind CSS | [Live](https://www.triibe.org/) |
 | **[Notely]** : Interactive and production-like Notes API | Java Spring Boot, Maven, Tomcat, Project Lombok, H2, Mockito | [GitHub](https://github.com/Pranaycantcode/Notely) |
 | **[FraudShield AI]** : ML-powered fraud detection platform that analyzes transaction data, detects anomalous and fraudulent activity | Pandas, NumPy, Matplotlib, Random Forest | [GitHub](https://github.com/Pranaycantcode/fraudshield-ai) |
 | **[orchestra]** : Event-driven workflow orchestration platform like GitHub Actions | Java, Spring Boot, Apache Kafka, PostgreSQL and Docker | [GitHub](https://github.com/Pranaycantcode/orchestra) |
 
 **Key Capabilities:**
-- Full-stack TypeScript (Next.js + Express + PostgreSQL + Prisma ORM), Java, Spring Boot, Python (intermediate level knowledge)
+- Full-stack TypeScript (Next.js + Express + PostgreSQL + Prisma ORM), Java, Spring Boot, Python (intermediate)
 - JWT Authentication & Role-Based Access Control (RBAC)
 - Activity Logging & Operational Analytics
 - Production Deployment (Vercel / Railway / Render / Docker / Neon / Upstash)
-- Clean, Maintainable Architecture
-- Foundational knowledge of system design
+- Clean, Modular Architecture building and maintenance
+- Knowledge of system design
 - DSA
 
 ---
