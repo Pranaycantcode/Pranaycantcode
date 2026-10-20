@@ -10,7 +10,7 @@
 
 ## Activity and Contributions
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranaycantcode&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Pranay's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranaycantcode&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranaycantcode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranaycantcode&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
@@ -52,15 +52,15 @@
 - The TRIIBE Grants Page | [Live](https://www.triibe.org/grants) |
 - The TRIIBE Missing Layer Page | [Live](https://www.triibe.org/the-missing-layer) |
 - The TRIIBE 2027 Summit Page | [Live](https://www.triibe.org/summit) |
-- A slow but gradual bridge with Backend. Coming Soon.
+- A slow but gradual integration with Backend. Stay Tuned.
 
 ---
 
 ## Current Focus
 
-- Deepening my full-stack architecture skills
-- Exploring CI/CD pipelines and advanced DevOps
-- Polishing my system design foundations
+- Deepening my full-stack development skills
+- Working with CI/CD pipelines and DevOps
+- Enhancing my system design knowledge
 - Venturing into basic ML
 
 ---
@@ -68,7 +68,7 @@
 ## Beyond Code
 
 - **Education:** B.Tech in Mechanical Engineering, BIT Mesra (2024 to 2028)
-- **Interests:** Full Stack development, DSA, System Design, DevOps
+- **Interests:** Full Stack development, DSA, System Design, DevOps, ML (Basic)
 
 ---
 
