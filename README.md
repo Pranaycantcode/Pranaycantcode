@@ -39,11 +39,10 @@
 **Key Capabilities:**
 - Full-stack TypeScript (Next.js + Express + PostgreSQL + Prisma ORM), Java, Spring Boot, Python (intermediate)
 - JWT Authentication & Role-Based Access Control (RBAC)
-- Activity Logging & Operational Analytics
-- Production Deployment (Vercel / Railway / Render / Docker / Neon / Upstash)
-- Clean, Modular Architecture building and maintenance
+- Production Deployment
 - Knowledge of system design
 - DSA
+- Implementing backend in TRIIBE, stay tuned!
 
 ---
 
